@@ -1,0 +1,22 @@
+{
+    "name": "humanisejs",
+    "version": "1.0.0",
+    "description": "Humanise your puppeteer-chromium experience!",
+    "repository": "https://github.com/aaronmansfield5/humanisejs",
+    "main": "index.js",
+    "types": "lib/humanise.d.ts",
+    "keywords": [
+        "puppeteer",
+        "humanise",
+        "botting",
+        "web-scrape"
+    ],
+    "author": "aaronmansfield5",
+    "files": [
+        "lib/**"
+    ],
+    "dependencies": {
+        "ghost-cursor": "^1.1.19",
+        "puppeteer": "^22.1.0"
+    }
+}
